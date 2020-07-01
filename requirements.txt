@@ -2,3 +2,4 @@ gym
 parl
 numpy
 matplotlib
+torch
